@@ -36,6 +36,7 @@ print(soup.get_text())
 #print(list(enumerate(soup.a.parents)))      #寻找a的所有上级标签,以列表的形式返回
 print(list(enumerate(soup.a.next_siblings)))    #a以下并列结点
 print(list(enumerate(soup.a.previous_siblings)))    #a以上并列结点
+#第一次被更改
 
 
 
