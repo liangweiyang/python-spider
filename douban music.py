@@ -32,7 +32,3 @@ for item in items:
 
 
 
-"""
-for ul in source:
-    print(ul.find_all('li'))
-"""
