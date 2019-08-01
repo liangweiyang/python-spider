@@ -1,1 +1,1 @@
-<li class="clearfix">.*?class="green-num-box">(\d+?)</span>.*?<img src="(.*?)">.*?href="javascript:;">(.*?)</a>
+爬取豆瓣音乐排行榜，并写入到txt，csv和数据库
