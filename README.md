@@ -12,3 +12,5 @@
 - [x] [qunar](https://github.com/liangweiyang/python-spider/tree/master/qunar)：简单的scrapy实例，爬取城市名和url，保存到txt和csv
 
 - [x] [qunar_xpath](https://github.com/liangweiyang/python-spider/tree/master/qunar_xpath)：利用xpath和yield提取并保存数据
+
+- [x] [cymodel_demo](https://github.com/liangweiyang/python-spider/tree/master/cymodel_demo)：简单的深度爬取实例
