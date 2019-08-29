@@ -14,3 +14,5 @@
 - [x] [qunar_xpath](https://github.com/liangweiyang/python-spider/tree/master/qunar_xpath)：利用xpath和yield提取并保存数据
 
 - [x] [cymodel_demo](https://github.com/liangweiyang/python-spider/tree/master/cymodel_demo)：简单的深度爬取实例
+
+- [x] [toutiao](https://github.com/liangweiyang/python-spider/tree/master/toutiao)：爬取今日头条的[街拍](https://www.toutiao.com/search/?keyword=%E8%A1%97%E6%8B%8D)搜索结果
